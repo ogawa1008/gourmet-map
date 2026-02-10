@@ -38,6 +38,7 @@ gourmet-map/
 ├─ assets/          # 画像・素材
 ├─ .gitignore
 └─ README.md
+```
 
 開発ルール
 
