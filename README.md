@@ -25,7 +25,7 @@
 ### API
 - Map API:   Google Maps API
 
-###　Auth:      Firebase Authentication
+### Auth:      Firebase Authentication
 
 
 ## ファイル構成
