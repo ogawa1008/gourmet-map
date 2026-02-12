@@ -17,14 +17,15 @@
 
 ## 使用技術（予定）
 ### フロントエンド
-- （例）Reactなど
+- React + TypeScript + Vite
 
 ### バックエンド
-- （例）Node.js / Firebase / Spring Boot など
+- Node.js + Express
 
 ### API
-- 地図API（例：Google Maps API）
-- 飲食店情報API（検討中）
+- Map API:   Google Maps API
+
+###　Auth:      Firebase Authentication
 
 
 ## ファイル構成
